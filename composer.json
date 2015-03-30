@@ -22,5 +22,6 @@
         "psr-4": {
 			"vk4php\\": "src/"
 		}
-    }
+    },
+	"minimum-stability": "dev"
 }
