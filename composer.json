@@ -1,8 +1,8 @@
 {
     "name": "d3n4/vk4php",
 	"type": "library",
-    "description": "PHP Library for use API of social network vkontakte (vk.com) Library from VK4* series <Easy2use>.",
-	"keywords": ["vk", "vk.com", "api", "easy2use", "easy to use", "login and password", "user credentials", "server", "offline", "android", "OOP", "vk4php"],
+    "description": "PHP Library for use API of social network vkontakte (vk.com) Library from VK4* series <Easy2use> Useful for server-side.",
+	"keywords": ["vk", "vk.com", "api", "easy2use", "easy to use", "login and password", "user credentials", "server", "offline", "android", "OOP", "vk4php", "android app based", "standalone", "server-side", "no captcha", "antigate", "anti-captcha"],
     "license": "MIT",
     "authors": [
         {
