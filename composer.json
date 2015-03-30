@@ -1,0 +1,26 @@
+{
+    "name": "d3n4/vk4php",
+	"type": "library",
+    "description": "PHP Library for use API of social network vkontakte (vk.com) Library from VK4* series <Easy2use>.",
+	"keywords": ["vk", "vk.com", "api", "easy2use", "easy to use", "login and password", "user credentials", "server", "offline", "android", "OOP", "vk4php"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mechislav Lipskiy",
+            "email": "id110099122@gmail.com"
+        }
+    ],
+	"support": {
+        "email": "id110099122@gmail",
+        "issues": "https://github.com/d3n4/VK4PHP/issues",
+        "source": "https://github.com/d3n4/VK4PHP"
+    },
+    "require": {
+		"php": ">=5.4.0"
+	},
+	"autoload": {
+        "psr-4": {
+			"vk4php\\": "src/"
+		}
+    }
+}
