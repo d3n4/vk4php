@@ -1,8 +1,8 @@
 {
     "name": "d3n4/vk4php",
-	"type": "library",
+    "type": "library",
     "description": "PHP Library for use API of social network vkontakte (vk.com) Library from VK4* series <Easy2use> Useful for server-side.",
-	"keywords": ["vk", "vk.com", "api", "easy2use", "easy to use", "login and password", "user credentials", "server", "offline", "android", "OOP", "vk4php", "android app based", "standalone", "server-side", "no captcha", "antigate", "anti-captcha"],
+    "keywords": ["vk", "vk.com", "api", "easy2use", "easy to use", "login and password", "user credentials", "server", "offline", "android", "OOP", "vk4php", "android app based", "standalone", "server-side", "no captcha", "antigate", "anti-captcha"],
     "license": "MIT",
     "authors": [
         {
@@ -10,18 +10,18 @@
             "email": "id110099122@gmail.com"
         }
     ],
-	"support": {
+    "support": {
         "email": "id110099122@gmail.com",
         "issues": "https://github.com/d3n4/VK4PHP/issues",
         "source": "https://github.com/d3n4/VK4PHP"
     },
     "require": {
-		"php": ">=5.4.0"
-	},
-	"autoload": {
-        "psr-4": {
-			"vk4php\\": "src/"
-		}
+        "php": ">=5.4.0"
     },
-	"minimum-stability": "dev"
+    "autoload": {
+        "psr-4": {
+            "vk4php\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
 }

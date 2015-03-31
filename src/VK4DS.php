@@ -7,16 +7,19 @@
 	 * VK Api Wrapper
 	 * PHP Library for use API of social network vkontakte (vk.com) Library from VK4* series <Easy2use>
 	 * Useful for server-side
+	 *
 	 * @package vk4php
-	 * @name VK4DS
 	 * @version 1.0
 	 * @author Mechislav Lipskiy <id110099122@gmail.com>
-	 * @tags vk, vk.com, api, easy2use, easy to use, login and password, user credentials, server, offline, android, OOP, vk4php, android app based, standalone, server-side, no captcha, antigate, anti-captcha
-	 * @git https://github.com/d3n4/vk4php
 	 * @license MIT
-	 * @php_version >= 5.4.0
+	 *
 	 * @todo implement vk.sql #idea
 	 * @todo implement antigate/anti-captcha built-in service
+	 *
+	 *
+	 * @tags vk, vk.com, api, easy2use, easy to use, login and password, user credentials, server, offline, android, OOP, vk4php, android app based, standalone, server-side, no captcha, antigate, anti-captcha
+	 * @git https://github.com/d3n4/vk4php
+	 * @php_version >= 5.4.0
 	 * https://anti-captcha.com/code/curl.txt
 	 */
 	class VK4DS {
