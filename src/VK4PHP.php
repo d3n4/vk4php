@@ -22,7 +22,7 @@
 	 * @php_version >= 5.4.0
 	 * https://anti-captcha.com/code/curl.txt
 	 */
-	class VK4DS {
+	class VK4PHP {
 
 		# [ Core constants ] #
 		const API_VERSION = '5.29';
