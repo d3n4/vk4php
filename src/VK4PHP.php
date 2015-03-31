@@ -3,7 +3,7 @@
 	namespace vk4php;
 
 	/**
-	 * Class VK4DS
+	 * Class VK4PHP
 	 * VK Api Wrapper
 	 * PHP Library for use API of social network vkontakte (vk.com) Library from VK4* series <Easy2use>
 	 * Useful for server-side
@@ -44,14 +44,14 @@
 		protected $last_response;
 
 		/**
-		 * Using VK4DS session for store token and restore it after next script execution
+		 * Using VK4PHP session for store token and restore it after next script execution
 		 * @var bool $use_session boolean state
 		 */
 		protected $use_session = false;
 
 		/**
 		 * Serializable array of settings
-		 * @var array $session VK4DS session storage
+		 * @var array $session VK4PHP session storage
 		 */
 		protected $session;
 
